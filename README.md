@@ -4,6 +4,8 @@
 Bu proje, **kullanıcının fotoğrafı + ürün fotoğrafı** ile **stil uyumu ve kombin önerileri** üreten bir AI stil danışmanıdır.  
 LLM çıktısı serbest metin yerine **JSON Schema (strict)** ile yapılandırılır ve **Pydantic** ile doğrulanır.
 
+BURADA SERGİLEDİĞİM KODLAR ÖZET AMAÇLIDIR. PROJENİN NET ANLAŞILABİLMESİ İÇİN. ANA PROJE KAYNAK KODLARINI YERELDE SAKLAMAKTAYIM.
+
 ## ✨ Özellikler
 - ✅ 2 fotoğrafla Multimodal analiz (user photo + product photo)
 - ✅ Dataset bağlamı (Myntra / Fashion dataset)
